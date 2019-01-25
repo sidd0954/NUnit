@@ -1,0 +1,10 @@
+C:\Users\Siddhant\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\Siddhant\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\Siddhant\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\Siddhant\source\repos\Calculator1\Calculator1\bin\Debug\nunit.framework.dll
+C:\Users\Siddhant\source\repos\Calculator1\Calculator1\bin\Debug\nunit.framework.xml
+C:\Users\Siddhant\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.csprojAssemblyReference.cache
+C:\Users\Siddhant\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\Siddhant\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CopyComplete
+C:\Users\Siddhant\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\Siddhant\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.pdb

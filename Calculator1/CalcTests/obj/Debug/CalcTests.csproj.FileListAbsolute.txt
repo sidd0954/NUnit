@@ -1,0 +1,12 @@
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\bin\Debug\CalcTests.dll
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\bin\Debug\CalcTests.pdb
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\bin\Debug\Calculator1.exe
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\bin\Debug\nunit.framework.dll
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\bin\Debug\Calculator1.pdb
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\bin\Debug\Calculator1.exe.config
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\bin\Debug\nunit.framework.xml
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\obj\Debug\CalcTests.csprojAssemblyReference.cache
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\obj\Debug\CalcTests.csproj.CoreCompileInputs.cache
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\obj\Debug\CalcTests.csproj.CopyComplete
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\obj\Debug\CalcTests.dll
+C:\Users\Siddhant\source\repos\Calculator1\CalcTests\obj\Debug\CalcTests.pdb
